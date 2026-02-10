@@ -181,10 +181,6 @@ Example: `A1B2C3D4,10/2/2026,9:30:15`
 
 **Serial communication issues**: Verify TX/RX cross-connection between boards
 
-## License
-
-This project is open source and available for educational purposes.
-
 ## Contributing
 
 Feel free to submit issues and pull requests for improvements.
