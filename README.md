@@ -10,15 +10,15 @@ This system uses two microcontrollers working together:
 
 ## Features
 
-- ✅ RFID card scanning for attendance
-- ⏰ Real-time clock (RTC DS3231) for accurate timestamps
-- 📊 OLED display (128x64 SSD1306) for visual feedback
-- 💾 SD card storage for student and attendance records
-- 🔔 Audio feedback with buzzer
-- 💡 RGB LED status indicators
-- 🔄 Auto-reset attendance after 12 hours
-- ➕ Add new users via button interface
-- 🔒 Duplicate attendance prevention
+- RFID card scanning for attendance
+- Real-time clock (RTC DS3231) for accurate timestamps
+- OLED display (128x64 SSD1306) for visual feedback
+- SD card storage for student and attendance records
+- Audio feedback with buzzer
+- RGB LED status indicators
+- Auto-reset attendance after 12 hours
+- Add new users via button interface
+- Duplicate attendance prevention
 
 ## Hardware Requirements
 
@@ -146,10 +146,10 @@ E5F6G7H8,10/2/2026,9:35:42
 
 ## LED Status Indicators
 
-- 🟢 **Green**: Attendance marked successfully
-- 🔵 **Blue**: Add user mode active / New user added
-- 🔴 **Red**: Error (not registered, already marked, or system reset)
-- ⚫ **Off**: Idle state
+- **Green**: Attendance marked successfully
+- **Blue**: Add user mode active / New user added
+- **Red**: Error (not registered, already marked, or system reset)
+- **Off**: Idle state
 
 ## Audio Feedback
 
